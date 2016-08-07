@@ -56,6 +56,10 @@ $navbar-default-bg: #FF8787;
   background-color: #FF7F7F;
   color: #000;
 }
+.article_actions {
+  border-top: 2px solid #FAB0B0;
+  padding-top: 5px;
+}
 .footer{
   border-top: 1px solid #FAB0B0;
   margin-top: 15px;
@@ -63,6 +67,12 @@ $navbar-default-bg: #FF8787;
   color: #FFF;
   position: absolute;
   bottom: 0;
+}
+.text_right {
+  float: right;
+}
+.description {
+  margin-top: -3px;
 }
 .footer:hover{
   color: #FAB0B0;
